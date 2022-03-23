@@ -1,0 +1,46 @@
+#head{
+    background-color: rgb(32, 2, 2);
+    color: rgb(0, 0, 0);
+    font-size: 300%;
+   text-shadow: 5px 6px 5px red ;
+   font-weight: bold;
+
+
+}
+body{
+    background-image: url(images/tvd.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    border-style: double;
+    border-width: 20px;
+    padding: 50px;
+    border-color: slategrey;
+    padding-top: 10px;
+    margin: 50px;
+
+}
+#paragraph{
+    font-size: 40px;
+    color: rgb(219, 171, 171);
+    background-attachment: fixed;
+    text-transform: capitalize;
+    font-style: oblique;
+    text-align: justify;
+    overflow: auto;
+}
+   a:link{
+    color: red;
+    text-decoration: none;
+    
+
+   }
+   a:visited{
+       color: rgb(10, 0, 0);
+    }
+    a:hover{
+        color: rgb(214, 187, 192);
+    }
+   a:active{
+       color: burlywood;
+   }

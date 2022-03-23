@@ -1,0 +1,62 @@
+body{
+    background-image: url(star.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    border: solid 5px rgb(9, 58, 50);
+    background-size: cover;
+    margin: 2%;
+    padding: 6%;
+}
+header{
+    color: rgb(0, 53, 53);
+    background-color: rgba(57, 192, 255,0.4);
+    border: 1px solid aqua;
+    border-radius: 25%;
+    padding: 1%;
+    margin: 5%;
+    text-align: center;
+    font-weight: 800;
+    box-shadow: 10px 15px blue 0.5px;
+}
+nav{
+    padding: 1%;
+}
+nav a{
+    margin: 5%;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    text-transform: capitalize;
+    background-color: darkcyan;
+    border-radius: 25%;
+    padding: 0.5%;
+    transition-property: background, width, font;
+    transition-duration: 1s;
+}
+a:hover{
+    background-color: rgb(216, 151, 162);
+    width: 105px;
+    font-family: monospace;
+    
+
+}
+details{
+    cursor: alias;
+}
+h1{
+    font-style: oblique;
+    font-weight: 900;
+}
+p{
+    border: solid 3px rgb(35, 71, 114);
+    background-color: rgba(61, 31, 110, 0.4);
+    color: rgb(17, 76, 116);
+    font-family: monospace;
+    word-spacing: 2%;
+    line-height: 200%;
+    font-size: 25px;
+    max-height: 350px;
+    overflow: auto;
+    font-weight: 800;
+
+    
+}

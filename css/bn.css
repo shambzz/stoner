@@ -1,0 +1,80 @@
+body{
+    background-color: cyan;
+    border: double 20px rgb(43, 8, 8);
+    border-radius: 100px;
+    padding: 50px;
+    overflow: auto;
+}
+p{
+    color:red;
+    border: solid 10px rgb(1, 34, 34);
+    background-color: cornflowerblue;
+    margin: 30px;
+    padding: 40px;
+    overflow: auto;
+    resize: both;
+    width: 150px;
+    height: 250px;
+    
+}
+.fancy plain{
+    font-family: cursive;
+    background-color: red;
+
+    color:green;
+   
+}
+header{
+    background: grey;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(61, 2, 31);
+    text-align: center;
+    cursor: alias;
+    text-shadow: 10px 20px black 0.5;
+}
+a{
+    color: black;
+    background-color:   background-color:  rgba(151, 144, 144, 0.1);;
+background-size: cover;
+    font-weight: bold;
+    text-decoration: none;
+    
+}
+ul{
+    list-style-image:url(images/tvd.png);
+    margin-left: 15%;
+    font-size: 50px;
+    font-variant: small-caps;
+    font-style: oblique;0
+    align-items: right;
+}
+table{
+ 
+    border: solid 5px black;
+    border-collapse: collapse;
+    width: 210px;
+    height: 100px;
+}
+td{
+    margin: 25px;
+    border: solid 6px black;
+    text-align: center;
+    height: 20px;
+
+}
+tr{
+    margin: 25px;
+    border: solid 6px black;
+    text-align: center;
+}
+th{
+    margin: 5px;
+    border: solid 6px black;
+    text-align: center;
+    height: 20px;
+}   
+button{
+    background-color:   background-color:  rgba(151, 144, 144, 0.1);;
+}
+
+
